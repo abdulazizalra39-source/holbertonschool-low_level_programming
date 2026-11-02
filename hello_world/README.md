@@ -1,2 +1,2 @@
 # Hello World
-Introduction to C compilation and preprocessing.
+Introduction to C preprocessing and compilation.
